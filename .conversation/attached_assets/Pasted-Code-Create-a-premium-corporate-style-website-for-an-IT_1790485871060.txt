@@ -1,0 +1,59 @@
+Code
+
+Create a premium, corporate-style website for an IT agency named TOXIN SOLUTIONS.
+Company tagline: Next-Gen IT Company purpose: We provide practical, real-time business solutions through modern technology. Phone number: +91 9123540453
+Design direction:
+* Make it look professional, trustworthy, premium, and suitable for enterprise clients.
+* Use a sleek dark corporate theme with deep navy/black, white typography, and subtle electric-blue or cyan accents.
+* Keep the layout clean, spacious, responsive, and conversion-focused.
+* Use high-quality abstract technology visuals, subtle grid patterns, glass effects, and elegant gradients.
+* Leave a clearly visible but empty logo area in the top-left header so I can add my logo later. Do not generate a logo.
+* Use smooth, refined animations: fade-ins on scroll, gentle card hover effects, subtle text reveals, and tasteful transitions. Keep animations fast and professional, never distracting.
+* Ensure the site is fully responsive on mobile, tablet, and desktop.
+* Prioritize excellent accessibility, fast loading, clean navigation, and polished UI.
+Create these website sections:
+1. Header / Navigation
+    * Empty logo placeholder on the left
+    * Navigation links: Home, About Us, Services, Projects, Careers, Contact
+    * A prominent “Let’s Talk” or “Get a Quote” button
+2. Hero Section
+    * Main heading: “Next-Gen IT Solutions for Real Business Growth”
+    * Supporting text: “TOXIN SOLUTIONS helps businesses solve real-time challenges with reliable web, mobile, cloud, and digital solutions.”
+    * Buttons: “Start a Project” and “Call Us”
+    * Add a premium technology-themed visual on the right side.
+3. About Us
+    * Explain that TOXIN SOLUTIONS is a forward-thinking IT agency focused on solving real business problems with scalable, modern technology.
+    * Highlight reliability, innovation, client-focused delivery, and real-world business impact.
+4. Services Create premium service cards for:
+    * Web Development — modern, responsive, high-performance business websites and web applications.
+    * Mobile App Development — intuitive Android and iOS mobile experiences.
+    * Cloud Services — secure, scalable cloud setup, deployment, and support.
+    * Real-Time Business Solutions — custom digital solutions that improve operations, customer experience, and growth.
+5. Why Choose Us Include points such as:
+    * Business-focused technology solutions
+    * Modern and scalable development
+    * Clear communication and dependable support
+    * Quality-driven delivery
+    * Built for long-term growth
+6. Featured Project Create a professional project case study card:
+    * Project name: “BSNL DSA Partner Website”
+    * Description: “A tailored website developed for a local BSNL DSA partner to showcase services, improve customer reach, and support their business requirements.”
+    * Include a polished project mockup area and tags such as Website Development, Business Solutions, and Responsive Design.
+7. Careers Add a careers section with inviting copy such as: “Build the future with TOXIN SOLUTIONS. We are always looking for curious, skilled, and motivated people who want to create meaningful technology.” Add sample openings:
+    * Frontend Developer
+    * Mobile App Developer
+    * Cloud / DevOps Engineer
+    * Business Development Executive Include an “Apply Now” button.
+8. Contact Section
+    * Heading: “Let’s Build Something Great”
+    * Phone: +91 9123540453
+    * Include a modern contact form with Name, Email, Phone, Service Needed, and Message.
+    * Add a click-to-call button linked to tel:+919123540453.
+9. Footer
+    * TOXIN SOLUTIONS
+    * Tagline: Next-Gen IT
+    * Navigation links
+    * Phone number
+    * Copyright notice
+
+Then you itself take about this website and give a best result

@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "Toxin Solutions"
+description = "A premium single-page website for TOXIN SOLUTIONS, an IT agency helping businesses grow with dependable digital products, cloud services, and real-time technology solutions."
+version = "1.0.0"
+id = "artifacts/toxin-solutions"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 23679
+
+[services.development]
+run = "pnpm --filter @workspace/toxin-solutions run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/toxin-solutions", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/toxin-solutions/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "23679"
+BASE_PATH = "/"
